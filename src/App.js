@@ -7,7 +7,7 @@ name: "ghof",
 jobTitle: "Web Developer",
 about:
 "Passionate about web development and creating awesome user experiences.",
-email: "alaa.odc@example.com",
+email: "ghof.odc@example.com",
 phone: "+123 456 7890",
 skills: ["HTML", "CSS", "JavaScript", "React"],
 photoURL:
